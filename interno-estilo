@@ -465,7 +465,7 @@ footer ul a li:hover,
  color:rgba(0,191,255,.8)
 }
 body {
- background:url(./../imagens/backgroud.png)
+ background:url(https://i.imgur.com/EG6csFp.png)
 }
 .principal {
  width:1200px;
