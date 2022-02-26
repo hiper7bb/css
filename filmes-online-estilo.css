@@ -1,0 +1,1200 @@
+.artigo1-online,
+.artigo1-online-tt {
+ margin-left:210px
+}
+.link-atualizado,
+.link-atualizado-video {
+ position:relative;
+ padding:10px;
+ float:right
+}
+.copiarlink a,
+.doacao a,
+.exemplo-aviso a {
+ text-decoration:none
+}
+.artigo1-online,
+.artigo1-online-tt {
+ width:780px;
+ height:auto;
+ float:left;
+ margin-top:0;
+ margin-bottom:10px;
+ padding-bottom:10px;
+ background:rgba(0,0,0,.4);
+ border:none
+}
+.artigo1-online-series .ad-ads-728-90-on {
+ margin-top:140px
+}
+#frame,
+.filme iframe {
+ width:500px;
+ height:400px;
+ margin-bottom:20px
+}
+.filme {
+ width:500px;
+ height:400px;
+ border:1px solid #fff;
+ margin-top:40px;
+ margin-left:140px;
+  margin-bottom: 20px;
+ overflow:hidden
+}
+.filme iframe {
+ margin-top:0
+}
+.video-container-hls {
+ width:568px;
+ height:auto;
+ margin-top: 10px;
+ margin-left:100px;
+ margin-bottom: 20px;
+ border-radius:20px;
+ padding:0 4px;
+ overflow:hidden;
+ border:1px solid rgba(255,255,255,.8)
+}
+#video-hls {
+ width:566px
+}
+.titulo-padrao {
+ font-size:24px;
+ line-height:30px;
+ padding:4px
+}
+.titulo-padrao-filmeson {
+ font-size:20px;
+ margin-bottom:0
+}
+.container-visitas {
+ width:200px;
+ height:auto;
+ float:right;
+ position:relative;
+ margin-top:20px;
+ margin-right:10px
+}
+.container-visitas p {
+ font-size:12px;
+ text-align:right;
+ margin-right:10px;
+ margin-top:0;
+ padding:4px
+}
+.container-visitas img {
+ width:25px;
+ height:25px;
+ float:left;
+ margin-left:0;
+ margin-top:-4px
+}
+.link-atualizado {
+ width:150px;
+ height:auto;
+ margin-top:-160px;
+ margin-right:25px
+}
+.link-atualizado-tt {
+ margin-top:-240px
+}
+.link-atualizado-video {
+ width:100px;
+ height:100px;
+ margin-top:-210px;
+ margin-right:10px;
+ border:2px solid rgba(255,255,255,.8);
+ background:rgba(0,0,0,.8)
+}
+.fullplayers,
+.nav_tabs {
+ background:0 0;
+ position:relative;
+}
+.link-tvonline {
+ margin-top:-215px
+}
+#link-atualizado-aviso {
+ display:none
+}
+.link-atualizado img {
+ width:50px;
+ height:50px;
+ margin-left:50px
+}
+.link-atualizado-video img {
+ width:50px;
+ height:50px;
+ margin-left:25px
+}
+.link-atualizado p,
+.link-atualizado-video p {
+ color:rgba(255,255,255,.8);
+ text-align:center;
+ font-size:14px
+}
+.copiarlink {
+ float:right;
+ width:150px;
+ height:auto;
+ position:relative;
+ margin-top:-255px;
+ margin-right:30px;
+ padding:5px
+}
+.copiarlink-tt {
+ margin-top:-320px
+}
+.copiarlinkpeertube {
+ margin-top:-225px
+}
+.copiarlink button {
+ margin-left:25px;
+ border:1px solid rgba(255,255,255,.8);
+ margin-bottom:5px
+}
+.copiarlink a {
+ margin-top:2px;
+ margin-left:35px;
+ font-size:12px;
+ cursor:pointer;
+ float:left
+}
+#exemplo-aviso-dmca,
+.exemplo-aviso {
+ font-size:18px
+}
+.copiarlink a:hover {
+ color:rgba(0,191,255,.8)
+}
+.container-exemplo-aviso {
+ width:500px;
+ height:auto;
+ margin-left:140px;
+ margin-bottom:10px;
+ padding:20px
+}
+.aviso-player,
+.doacao {
+ height:auto;
+ margin-left:0px;
+ margin-top:20px
+}
+.exemplo-aviso {
+ color:rgba(255,255,255,.8);
+ text-align:center;
+ padding:2px
+}
+.exemplo-aviso a {
+ color:rgba(0,191,255,.8)
+}
+.aviso-player p,
+.doacao p {
+ color:rgba(255,255,255,.7);
+ text-align:center
+}
+.aviso-player {
+ width:100%;
+ padding:5px 5px 10px;
+ float:left
+}
+.aviso-player p {
+ font-size:16px
+}
+.doacao {
+ width:775px;
+ padding:5px
+}
+.doacao p {
+ font-size:18px
+}
+.doacao img {
+ width:80px;
+ margin-top:20px;
+ margin-left:10px;
+ margin-bottom:10px;
+ border-radius:20px
+}
+.doacao .primeira-img-doacao {
+ margin-left:210px
+}
+.doacao img:hover {
+ -webkit-transform:scale(1.1);
+ -moz-transform:scale(1.1);
+ -o-transform:scale(1.1);
+ -ms-transform:scale(1.1);
+ transform:scale(1.1);
+ -moz-transition:all .5s;
+ -webkit-transition:all .5s;
+ transition:all .5s
+}
+.fullplayers {
+ width:560px;
+ height:380px;
+ margin-bottom:60px;
+}
+.fullplayers-tab iframe,
+.fullplayers-tab video {
+ width:500px;
+ height:260px;
+ float:left;
+ margin-left:14px;
+ margin-top:5px;
+ background:rgba(0,0,0,.6)
+}
+.nav_tabs {
+ width:350px;
+ height:210px;
+ margin-top:10px;
+ margin-left:220px;
+}
+.nav_tabs ul {
+ list-style:none
+}
+.nav_tabs ul li {
+ float:left
+}
+.tab_label {
+ border:1px solid rgba(255,255,255,.7);
+ margin-top:10px;
+ display:block;
+ width:50px;
+ height:40px;
+ padding-top:10px;
+ background:rgba(0,0,0,.8);
+ font-size:10px;
+ color:#fff;
+ cursor:pointer;
+ text-align:center;
+ margin-left:16px
+}
+.cont-episodios,
+.episodio {
+ border:1px solid #fff;
+ margin-top:10px;
+ float:left
+}
+.nav_tabs .rd_tab {
+ display:none;
+ position:relative
+}
+.nav_tabs .rd_tab:checked~label {
+ background-color:#e54e43;
+ color:#fff
+}
+.tab-content {
+ width:540px;
+ height:300px;
+ top:160px;
+ background:0 0;
+ display:none;
+ position:absolute;
+ left:-86px;
+}
+.tab-content-series {
+ top:210px
+}
+.tab-content-players-series {
+ top:130px
+}
+.rd_tab:checked~.tab-content {
+ display:block
+}
+.cont-episodios {
+ width:520px;
+ height:280px;
+ margin-left:8px;
+ background-size:cover;
+ opacity:.8;
+ margin-top: 20px;
+}
+.episodio {
+ width:50px;
+ height:50px;
+ margin-left:12.5px;
+ text-align:center;
+ padding-top: 15px;
+ font-size:10px;
+ border:1px solid rgba(255,255,255,.7);
+ background-color:rgba(123,104,238,.6);
+ color:rgba(255,255,255,.9);
+}
+.episodio:hover {
+ background-color:rgba(0,191,255,.8);
+ color:rgba(173,255,47)
+}
+.nao-ativo-series {
+ pointer-events:none;
+ cursor:default;
+ opacity:.4
+}
+.estatistica {
+ width:728px;
+ height:90px;
+ top:0;
+ position:relative;
+ margin-left:auto;
+ margin-right:auto;
+ margin-bottom:-10px
+}
+.estatistica-series {
+  top: 110px;
+}
+.estatistica-tv-online {
+  top: 0px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.estatistica-visitas img {
+ float:left;
+ width:50px;
+ height:50px;
+ margin-left:10px;
+ margin-right:10px;
+ margin-top:-10px
+}
+.estatistica-visitas p {
+ float:left;
+ margin-left:20px;
+ margin-right:10px;
+ margin-top:30px
+}
+.estatistica-pag-atualizada img {
+ float:left;
+ width:50px;
+ height:50px;
+ margin-left:10px;
+ margin-top:20px
+}
+.estatistica-pag-atualizada p {
+ float:left;
+ margin-left:20px;
+ margin-top:30px
+}
+.estatistica-copiar-link button {
+ float:left;
+ width:160px;
+ margin-left:30px;
+ margin-top:30px
+}
+.container-visitas-oculto {
+ display:none
+}
+.titulo-aviso-players {
+  font-size:16px;
+  margin-bottom:0px
+}
+.teste {
+  font-size: 20px;
+  color: white;
+}
+.compartilhe {
+ width:400px;
+ height:90px;
+ top:0;
+ position:relative;
+ margin-left:auto;
+ margin-right:auto;
+ margin-bottom:10px
+}
+.compartilhe-series {
+ top: 90px
+}
+.compartilhe p {
+  float: left;
+  margin-top: 32px;
+  margin-left: 32px;
+  font-size: 18px;
+}
+.compartilhe img {
+  width: 50px;
+  float: left;
+  margin-top: 18px;
+  margin-left: 25px;
+}
+.recarregar {
+ width:400px;
+ height:84px;
+ text-align: center;
+ top:0;
+ position:relative;
+ margin-left:auto;
+ margin-right:auto;
+ margin-bottom:10px;
+ padding-top: 8px;
+}
+.recarregar-series{
+  top: -16px;
+}
+.feedback {
+ width:400px;
+ height:70px;
+ text-align: center;
+ top:0;
+ position:relative;
+ margin-left:auto;
+ margin-right:auto;
+ margin-bottom:10px;
+ padding-top: 8px;
+}
+.feedback-tmdb {
+  margin-top: -20px;
+}
+.detalhes p,
+.detalhes h2,
+.detalhes h3,
+.detalhes h5,
+.detalhes h6 {
+ font-size: 14px;
+}
+@media (min-width:768px) and (max-width:1024px) {
+ .artigo1-online {
+  width:100%;
+  height:auto;
+  float:left;
+  margin-left:00px
+ }
+ .artigo1-online-tt {
+  width:750px;
+  margin-left:0
+ }
+ .video-container-hls {
+  width:570px;
+  height:auto;
+  margin-left: 82px;
+ }
+ #video-hls {
+  width:570px
+ }
+ .aviso {
+  margin-bottom:10px
+ }
+ .link-atualizado {
+  width:120px;
+  margin-right:15px;
+  margin-top:-140px
+ }
+ .link-atualizado-tt {
+  margin-top:-240px
+ }
+ .link-atualizado-video {
+  width:80px;
+  height:90px;
+  margin-top:-235px;
+  margin-right:10px
+ }
+ .link-tvonline {
+  margin-top:-215px
+ }
+ .link-atualizado img {
+  margin-left:40px
+ }
+ .link-atualizado-video img {
+  width:60px;
+  height:60px;
+  margin-left:10px
+ }
+ .link-atualizado-video p {
+  font-size:12px
+ }
+ .link-atualizado p {
+  font-size:14px
+ }
+ .copiarlink {
+  width:120px;
+  margin-top:-240px;
+  margin-right:20px
+ }
+ .copiarlink-tt {
+  margin-top:-320px
+ }
+ .copiarlinkpeertube {
+  margin-top:-255px
+ }
+ .copiarlink button {
+  margin-left:10px
+ }
+ .copiarlink a {
+  font-size:9px;
+  margin-left:30px
+ }
+ .container-exemplo-aviso {
+  margin-left:130px;
+  margin-bottom:10px
+ }
+ .container-visitas {
+  width:160px;
+  margin-top:50px;
+  margin-right:0
+ }
+ .container-visitas img {
+  width:20px;
+  height:20px;
+  margin-top:-4px
+ }
+ .titulo-padrao {
+  padding:4px
+ }
+ .titulo-padrao-p {
+  font-size:22px
+ }
+ .titulo-padrao-fale {
+  padding:4px;
+  font-size:18px
+ }
+ .titulo-padrao-filmeson {
+  font-size:18px;
+  margin-bottom:0
+ }
+ #exemplo-aviso-dmca,
+ .doacao p {
+  font-size:16px
+ }
+ .aviso-player,
+ .doacao {
+  width:100%;
+ }
+ .doacao .primeira-img-doacao {
+  margin-left:170px
+ }
+ .ad-ads {
+  margin-left:10px
+ }
+ .ad-ads-peq {
+  display:none
+ }
+ .nav_tabs {
+  margin-left:200px
+ }
+.filme {
+  margin-left: 130px;  
+}
+.recarregar-animes{
+  top: -26px;
+  margin-bottom: -12px;
+}
+}
+@media (min-width:481px) and (max-width:767px) {
+ #frame,
+ #reload,
+ .filme iframe {
+  border-radius:20px
+ }
+ .link-atualizado,
+ .link-atualizado-video {
+  float:left;
+  width:120px;
+  margin-bottom:10px
+ }
+ #frame,
+ .container-visitas,
+ .filme iframe {
+  margin-bottom:20px
+ }
+ .artigo1-online {
+  width:100%;
+  height:auto;
+  float:left;
+  padding-bottom:10px;
+  margin-left:0
+ }
+ .filme,
+ .filme iframe {
+  width:400px;
+  height:300px
+ }
+ .filme {
+  margin-top:40px;
+  margin-left:27px;
+  margin-bottom: -436px;
+ }
+ .video-container-hls {
+  width:430px;
+  height:auto;
+  margin-left: 10px;
+  margin-bottom: 0px;
+ }
+ #video-hls {
+  width:460px
+ }
+ #frame {
+  width:400px;
+  height:300px
+ }
+ #reload {
+  width:140px;
+  height:40px;
+  margin-left:140px;
+  background-color:#000;
+  font-size:20px;
+  font-family:Oswald,sans-serif;
+  color:#fff
+ }
+ .olho {
+  margin-left:40px
+ }
+ .titulo-padrao {
+  padding:4px;
+  font-size:16px
+ }
+ .titulo-padrao-fale {
+  padding:4px;
+  font-size:16px
+ }
+ .container-visitas {
+  width:200px;
+  margin-top:20px;
+  margin-right:120px
+ }
+ .container-visitas p {
+  font-size:12px;
+  text-align:right;
+  margin-right:10px
+ }
+ .link-atualizado {
+  margin-top:120px;
+  margin-left:160px
+ }
+ .link-tvonline {
+  margin-top:20px
+ }
+ .link-atualizado-video {
+  height:120px;
+  margin-top:20px;
+  margin-left:150px
+ }
+ .link-atualizado p {
+  font-size:14px
+ }
+ .link-atualizado img {
+  margin-left:40px
+ }
+ .link-atualizado-video img {
+  width:70px;
+  height:70px
+ }
+ .container-exemplo-aviso {
+  width:400px;
+  margin-top:20px;
+  margin-left:auto;
+  margin-right: auto;
+  margin-bottom:10px
+ }
+ .copiarlink {
+  width:120px;
+  margin-top:-210px;
+  margin-right:164px
+ }
+ .aviso-player,
+ .doacao {
+  width:100%;
+  float:left
+ }
+ .copiarlink button {
+  margin-left:10px
+ }
+ .copiarlink a {
+  margin-left:20px
+ }
+ .exemplo-aviso {
+  font-size:16px
+ }
+ #exemplo-aviso-dmca,
+ .doacao p {
+  font-size:14px
+ }
+ .aviso-player {
+  margin-top:10px;
+  padding:10px;
+ }
+ .doacao {
+  margin-left:15px
+ }
+ .doacao p {
+  margin-top:5px
+ }
+ .doacao .primeira-img-doacao {
+  margin-left:22px
+ }
+ .titulo-padrao-filmeson {
+  font-size:16px;
+  margin-bottom:0
+ }
+ .artigo1-online-tt {
+  width:460px;
+  height:auto;
+  margin-left:0
+ }
+ .fullplayers {
+  width:440px;
+  height:360px;
+  float:left
+ }
+ .fullplayers-tab iframe,
+ .fullplayers-tab video {
+  width:410px;
+  height:250px;
+  margin-left:-30px;
+ }
+ .nav_tabs {
+  margin-top:20px;
+  margin-left:60px
+ }
+ .tab-content {
+  width:100%;
+  height:300px;
+  left:0px;
+ }
+.tab-content-series {
+  top:180px;
+  border: none;
+}
+ .copiarlink-tt {
+  margin-top:60px
+ }
+ .copiarlink-series {
+  margin-top:100px
+ }
+ .link-atualizado-tt {
+  margin-top:10px;
+  margin-left:160px;
+  margin-bottom:10px
+ }
+ .cont-episodios {
+  width:400px;
+  height:auto;
+  margin-top:50px;
+  margin-left:-24px;
+  padding-bottom:10px
+ }
+ .episodio {
+  margin-left:25px;
+ }
+ .titulo-aviso-players {
+  font-size:13px;
+  margin-top:20px;
+  margin-bottom:16px
+ }
+ .estatistica {
+  width:428px;
+  height:90px;
+  margin-top:30px;
+  margin-right:14px;
+  margin-bottom:40px;
+  float:right
+ }
+ .estatistica-series {
+  top: 10px;
+  margin-top: 100px;
+}
+.estatistica-tv-online {
+  top: 0px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+ .estatistica-visitas img {
+  width:40px;
+  height:40px;
+  margin-left:0
+ }
+ .estatistica-visitas p {
+  font-size:11px;
+  margin-left:10px;
+  margin-right:10px;
+  margin-top:40px
+ }
+ .estatistica-pag-atualizada img {
+  width:40px;
+  height:40px;
+  margin-left:5px
+ }
+ .estatistica-pag-atualizada p {
+  font-size:11px;
+  margin-left:10px;
+  margin-top:40px
+ }
+ .estatistica-copiar-link button {
+  float:left;
+  width:50px;
+  margin-left:12px;
+  margin-top:30px;
+  font-size:10px
+ }
+.estatistica-series-online {
+  top: 0px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.compartilhe {
+ width:400px;
+ height:90px;
+ top:0;
+ position:relative;
+ margin-left:auto;
+ margin-right:auto;
+ margin-bottom:0px
+}
+.compartilhe-series {
+ top: 100px;
+ margin-top:  420px;
+ margin-bottom: 10px;
+}
+.recarregar {
+ margin-top: 20px;
+ margin-bottom:20px;
+}
+.recarregar-series{
+  top: 0px;
+  margin-top: 422px;
+}
+.recarregar-animes{
+  top: -42px;
+  margin-bottom: -12px;
+}
+.feedback {
+ margin-top: 460px;
+}
+.feedback-tmdb {
+  margin-top: 420px;
+}
+.detalhes p,
+.detalhes h2,
+.detalhes h3,
+.detalhes h5,
+.detalhes h6 {
+ font-size: 12px;
+}
+}
+@media (min-width:320px) and (max-width:480px) {
+ .artigo1-online {
+  width:100%;
+  height:auto;
+  padding-bottom:10px;
+  margin-left:0
+ }
+ .filme {
+  width:290px;
+  height:300px;
+  margin-top:20px;
+  margin-left:3px;
+  margin-bottom: -410px;
+ }
+ .filme iframe {
+  width:280px;
+  height:300px;
+  border-radius:20px;
+  margin-bottom:20px
+ }
+ #frame {
+  width:287px;
+  height:297px
+ }
+ .video-container-hls {
+  width:282px;
+  height:auto;
+  margin-left:6px;
+  margin-bottom: 0px;
+ }
+ #video-hls {
+  width:290px
+ }
+ .recomendados {
+  font-size:28px;
+  margin-left:16px
+ }
+ .titulo-padrao {
+  padding:4px;
+  font-size:14px
+ }
+ .titulo-padrao-fale {
+  padding:4px;
+  font-size:16px
+ }
+ .titulo-padrao-filmeson {
+  font-size:12px;
+  line-height:20px;
+  margin-bottom:0;
+  letter-spacing:1px
+ }
+ .titulo-padrao-h {
+  font-size:12px;
+  line-height:20px;
+  margin-top:0
+ }
+ .container-visitas {
+  width:200px;
+  margin-top:20px;
+  margin-right:48px;
+  margin-bottom:20px
+ }
+ .link-atualizado,
+ .link-atualizado-video {
+  width:100px;
+  float:left;
+  margin-left:90px
+ }
+ .link-atualizado {
+  margin-top:130px;
+  margin-bottom:10px
+ }
+ .link-tvonline {
+  margin-top:20px
+ }
+ .link-atualizado-video {
+  height:110px;
+  margin-top:20px;
+  margin-bottom:10px
+ }
+ .link-atualizado img {
+  width:40px;
+  height:40px;
+  margin-left:35px
+ }
+ .link-atualizado-video img {
+  width:70px;
+  height:70px;
+  margin-left:15px
+ }
+ .link-atualizado p {
+  font-size:12px
+ }
+ #exemplo-aviso-dmca,
+ .aviso-player p,
+ .exemplo-aviso,
+ .link-atualizado-video p {
+  font-size:14px
+ }
+ .copiarlink {
+  width:100px;
+  margin-top:-210px;
+  margin-right:95px
+ }
+ .copiarlink button {
+  margin-left:0
+ }
+ .copiarlink a {
+  margin-left:10px
+ }
+ .container-exemplo-aviso {
+  width:100%;
+  margin-top:20px;
+  margin-left:0px;
+  margin-bottom:10px
+ }
+ .aviso-player,
+ .doacao {
+  width:100%;
+  float:left
+ }
+ .aviso-player {
+  margin-top:20px;
+  padding:10px;
+ }
+ .doacao {
+  margin-left:15px
+ }
+ .doacao p {
+  font-size:12px;
+  margin-top:5px
+ }
+ .doacao img {
+  width:50px;
+  margin-top:10px;
+  margin-bottom:0
+ }
+ .doacao .primeira-img-doacao {
+  margin-left:10px
+ }
+ .titulo-padrao-p {
+  font-size:18px
+ }
+ .artigo1-online-tt {
+  width:300px;
+  height:auto;
+  margin-left:0
+ }
+ .fullplayers {
+  width:300px;
+  height:360px;
+  float:left;
+ }
+ .fullplayers-tab iframe,
+ .fullplayers-tab video {
+  width:290px;
+  height:270px;
+  margin-left:4px
+ }
+ .nav_tabs {
+  width:100%;
+  height: 170px;
+  margin-top:0;
+  margin-left:4px;
+  position: relative;
+ }
+ .tab_label {
+  width:40px;
+  height:30px;
+  font-size:8px;
+  margin-top:10px;
+ }
+ .tab-content {
+  width:280px;
+  height:280px;
+  top:120px;
+  left:0px
+ }
+ .tab-content-series {
+  width:100%;
+  height:200px;
+  top:170px;
+ }
+ .tab-content-players-series {
+  top:90px
+ }
+ .copiarlink-tt {
+  margin-top:20px
+ }
+ .copiarlink-series {
+  margin-top:140px
+ }
+ .link-atualizado-tt {
+  margin-top:20px;
+  margin-bottom:10px
+ }
+ .cont-episodios {
+  width:100%;
+  height:auto;
+  margin-left:2px;
+  padding-bottom:10px;
+  background-position-x:center;
+ }
+ .episodio {
+  width:50px;
+  height:40px;
+  margin-left:22px;
+  font-size: 9px;
+ }
+ .titulo-aviso-players {
+  font-size:10px;
+  margin-top:10px;
+  margin-bottom:10px;
+  line-height:22px
+ }
+ .estatistica {
+  width:280px;
+  height:56px;
+  top:0;
+  margin-top:0;
+  margin-right:10px;
+  margin-bottom:30px;
+  float:right
+ }
+.estatistica-series {
+  top: 10px;
+  margin-top: 70px;
+}
+.estatistica-series-online {
+  top: -30px;
+  margin-top: 0px;
+  margin-bottom: -20px;
+}
+.estatistica-tv-online {
+  top: 0px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+ .estatistica-visitas img {
+  width:20px;
+  height:20px;
+  margin-top:0;
+  margin-left:10px
+ }
+ .estatistica-visitas p {
+  font-size:8px;
+  margin-top:20px;
+  margin-left:0px;
+  margin-right:10px
+ }
+ .estatistica-pag-atualizada img {
+  width:20px;
+  height:20px;
+  margin-top:15px;
+  margin-left:0
+ }
+ .estatistica-pag-atualizada p {
+  font-size:7px;
+  margin-left:2px;
+  margin-top:20px
+ }
+ .estatistica-copiar-link button {
+  float:left;
+  width:30px;
+  margin-left:7px;
+  margin-top:10px;
+  font-size:7px;
+  border:1px solid
+ }
+.compartilhe {
+  width:280px;
+  height:80px;
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+.compartilhe-series {
+ top: 68px;
+ margin-top: 440px;
+}
+.compartilhe p {
+  margin-top: 28px;
+  margin-left: 10px;
+  font-size: 14px;
+}
+.compartilhe img {
+  width: 40px;
+  margin-top: 18px;
+  margin-left: 15px;
+}
+.titulo-padrao-series-online {
+  margin-bottom: 20px; 
+}
+.recarregar {
+ width:280px;
+ height:auto;
+ text-align: center;
+ top:0px;
+ position:relative;
+ margin-top: 10px;
+ margin-left:auto;
+ margin-right:auto;
+ margin-bottom:10px;
+ padding-top: 8px;
+ padding-bottom: 10px;
+ font-size: 13px;
+}
+.recarregar-series{
+  top: -30px;
+  margin-top: 430px;
+}
+.recarregar-animes{
+  top: -30px;
+  margin-top: 430px;
+}
+.feedback {
+ width:280px;
+ height:60px;
+ margin-top: 430px;
+ font-size: 13px;
+}
+.feedback-tmdb {
+  margin-top: 415px;
+  top: -14px;
+}
+.detalhes p,
+.detalhes h2,
+.detalhes h3,
+.detalhes h5,
+.detalhes h6 {
+ font-size: 10px;
+}
+}
