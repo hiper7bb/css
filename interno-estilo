@@ -464,9 +464,6 @@ footer ul a li:hover,
 .feedback:hover {
  color:rgba(0,191,255,.8)
 }
-body {
- background:url(https://i.imgur.com/EG6csFp.png)
-}
 .principal {
  width:1200px;
  margin:0 auto auto;
