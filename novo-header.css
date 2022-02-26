@@ -1,0 +1,242 @@
+.wrapper nav,
+nav .content,
+nav .content .links {
+ display:flex
+}
+.wrapper .links li ul li a {
+ font-size:10px;
+ line-height:10px;
+ letter-spacing:1px
+}
+.wrapper {
+ width:1200px;
+ position:fixed;
+ z-index:999
+}
+.wrapper nav {
+ position:relative;
+ margin:0 auto;
+ height:70px
+}
+nav .content {
+ align-items:center;
+}
+.content .links li label,
+.wrapper input[type=checkbox] {
+ display:none
+}
+.content img {
+ width:40px
+}
+.content .logo a {
+ font-size:15px;
+ font-weight:lighter;
+ margin:4px
+}
+.content .links li {
+ list-style:none;
+ line-height:70px;
+}
+.content .links li a,
+.content .links li label {
+ font-size:11.5px;
+ font-weight:500;
+ padding:9px 17px;
+ transition:all .2s ease;
+ overflow:hidden
+}
+.content .links {
+ overflow-y:auto
+}
+.content .links li a:hover,
+.content .links li label:hover {
+ background:rgba(0,0,0,.7);
+}
+.wrapper .menu-icon {
+ color:#fff;
+ font-size:18px;
+ cursor:pointer;
+ line-height:70px;
+ width:70px;
+ text-align:center;
+ display:none
+}
+.content .links ul {
+ position:absolute;
+ top:80px;
+ z-index:1;
+ opacity:0;
+ visibility:hidden;
+ max-height:420px;
+ overflow-y:scroll
+}
+.content .links li:hover>ul {
+ top:70px;
+ opacity:1;
+ visibility:visible;
+ transition:all .3s ease
+}
+.content .links ul li a {
+ display:block;
+ width:100%;
+ line-height:0;
+ border-radius:0!important;
+ font-size:12px
+}
+.content .links ul ul {
+ position:absolute;
+ top:100px;
+ right:calc(-80%)
+}
+.content .links ul li {
+ position:relative
+}
+.content .links ul li:hover ul {
+ top:0
+}
+.wrapper nav {
+ max-width:100%;
+ padding:0 20px
+}
+nav .content .links {
+ margin-left:30px
+}
+.content .links li a {
+ padding:8px 13px
+}
+.content .links li ul li {
+ overflow-x:hidden
+}
+.wrapper .content .red {
+ color:rgba(255,0,0,.8)
+}
+.links li a img,
+.links li label img {
+ width:20px;
+ margin-right:2px
+}
+@media screen and (max-width:1024px) {
+ .wrapper .menu-icon {
+  display:block
+ }
+ .wrapper #show-menu:checked~.menu-icon i::before {
+  content:"\f00d"
+ }
+ nav .content .links {
+  display:block;
+  position:fixed;
+  height:80%;
+  width:100%;
+  top:90px;
+  left:-101%;
+  margin-left:0px;
+  overflow-y:auto;
+  padding-bottom:10px;
+  transition:all .3s ease
+ }
+ nav #show-menu:checked~.content .links {
+  left:0
+ }
+ .content .links li {
+  margin:15px;
+  text-align:left
+ }
+ .content .links li a,
+ .content .links li label {
+  line-height:10px;
+  font-size:16px;
+  display:block;
+  padding:2px 20px;
+  cursor:pointer
+ }
+ .wrapper .links li ul li a {
+  font-size:12px;
+  line-height:12px;
+  letter-spacing:1px
+ }
+ .content .links li a.desktop-link {
+  display:none
+ }
+ .content .links ul,
+ .content .links ul ul {
+  position:static;
+  opacity:1;
+  visibility:visible;
+  background:0 0;
+  max-height:0;
+  overflow-y:scroll;
+ }
+ .content .links ul li {
+  background:rgba(0,0,0,.6);
+  margin:5px 20px
+ }
+ .content .links #show-a-z:checked~ul,
+ .content .links #show-anos:checked~ul,
+ .content .links #show-buscas:checked~ul,
+ .content .links #show-generos:checked~ul,
+ .content .links #show-items:checked~ul,
+ .content .links #show-paginicial:checked~ul,
+ .content .links #show-por:checked~ul,
+ .content .links #show-series:checked~ul,
+ .content .links #show-services:checked~ul,
+ .content .links #show-tags:checked~ul,
+ .content .links #show-outros:checked~ul {
+  max-height:100vh
+ }
+ .content .links ul li a {
+  font-size:12px;
+  line-height:0;
+  border-radius:5px!important
+ }
+}
+@media screen and (max-width:480px) {
+ .wrapper .links li ul li a {
+  font-size:10px;
+  line-height:10px
+ }
+ .wrapper nav {
+  padding:0 10px
+ }
+ .content .logo a {
+  font-size:16px;
+  margin-left:5px
+ }
+ .content img {
+  margin-left:-16px
+ }
+}
+@media (min-width:768px) and (max-width:1024px) {
+ .wrapper {
+  width:748px
+ }
+.content .logo a {
+ font-size:20px;
+  margin:6px;
+}
+.content img {
+ margin-left: 10px;
+}
+.content .usuario-onlines {
+ margin-left: -10px;
+}
+}
+@media (min-width:481px) and (max-width:767px) {
+ .wrapper {
+  width:463px;
+ }
+}
+@media (min-width:320px) and (max-width:480px) {
+ .wrapper {
+  width:303px
+ }
+ nav .content .links {
+  width:100%;
+  height:100%;
+  top:90px;
+  left:-101%;
+  margin-left:0
+ }
+.content .usuario-onlines {
+ margin-left: 10px;
+}
+}
